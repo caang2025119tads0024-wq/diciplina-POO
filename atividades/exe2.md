@@ -1,0 +1,1 @@
+#  Qual a diferença entre declarar um vetor com valor fixo e inicializá-lo com valores específicos?

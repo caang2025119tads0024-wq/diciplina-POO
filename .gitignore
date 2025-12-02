@@ -1,0 +1,6 @@
+# Ignorar tudo por padrão
+*
+!.gitignore
+!README.md
+!atividades/
+!atividades/**
